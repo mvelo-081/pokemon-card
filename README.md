@@ -11,7 +11,7 @@ A simple and interactive Pokémon Image App built using **HTML**, **CSS**, and *
 
 ## Demo
 
-[Live Demo](https://your-username.github.io/pokemon-image-app)
+[Live Demo](https://mvelo-081.github.io/pokemon-image-app)
 
 ## Screenshots
 
@@ -28,4 +28,4 @@ A simple and interactive Pokémon Image App built using **HTML**, **CSS**, and *
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pokemon-image-app.git
+   git clone https://github.com/mvelo-081/pokemon-image-app.git
